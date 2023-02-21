@@ -30,4 +30,4 @@ The initial design of the website will include a landing page with a login optio
 
 Database Diagram
 
-![Db Digram](sqc-project-dsprinkle2\docs\DB_diagram.drawio.png)
+![Db Diagram](sqc-project-dsprinkle2\docs\DB_diagram.drawio.png)
