@@ -26,3 +26,8 @@ The relationship between these tables is as follows:
 The initial design of the website will include a landing page with a login option for registered players, and a sign up option for new players. The game interface will consist of a visual representation of the player's choices, items collected, and statistics. A sample layout and site map of the website are shown below:
 
 ![Page Layout](sqc-project-dsprinkle2\docs\Page Layout.png)
+
+
+Database Diagram
+
+![Db Digram](sqc-project-dsprinkle2\docs\DB_diagram.drawio.png)
