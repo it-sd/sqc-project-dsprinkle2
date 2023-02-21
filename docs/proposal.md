@@ -30,4 +30,4 @@ The initial design of the website will include a landing page with a login optio
 
 Database Diagram
 
-![Db Diagram](docs/DB_diagram.drawio.png)
+![DB Diagram](DB_diagram.drawio.png "Db Diagram")
