@@ -28,6 +28,28 @@ The initial design of the website will include a landing page with a login optio
 ![Page Layout]("Page Layout.png" "Page Layout")
 
 
+
+## Enhancing the Horror Atmosphere of The Woods Game
+
+To create a more immersive and terrifying experience for players of The Woods, the use of certain colors and fonts can be effective.
+Colors
+
+    Red: often associated with danger, blood, and intensity.
+    Black: represents darkness, mystery, and fear.
+    Grey: creates a sense of gloom and uncertainty.
+
+By using these colors in the game, players will feel more immersed in the horror atmosphere of The Woods.
+Fonts
+
+    Chiller: has a jagged and spooky appearance.
+    Blood Crow: has a dripping and bloody effect.
+    Gothic Ultra: has a bold and ornate style that can add to the eerie atmosphere of the game.
+
+Using these fonts can enhance the overall appearance of the game and help to create a more unsettling atmosphere.
+
+Overall, the use of red, black, and grey colors, along with Chiller, Blood Crow, and Gothic Ultra fonts, can help to enhance the horror atmosphere of The Woods game and create a more immersive and terrifying experience for players.
+
+
 Database Diagram
 
 ![DB Diagram](DB_diagram.drawio.png "Db Diagram")
